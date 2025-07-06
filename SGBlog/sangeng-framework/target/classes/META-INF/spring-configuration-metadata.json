@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "myoss",
+      "type": "com.example.service.impl.OssUploadServiceImpl",
+      "sourceType": "com.example.service.impl.OssUploadServiceImpl"
+    }
+  ],
+  "properties": [
+    {
+      "name": "myoss.access-key",
+      "type": "java.lang.String",
+      "sourceType": "com.example.service.impl.OssUploadServiceImpl"
+    },
+    {
+      "name": "myoss.bucket",
+      "type": "java.lang.String",
+      "sourceType": "com.example.service.impl.OssUploadServiceImpl"
+    },
+    {
+      "name": "myoss.secret-key",
+      "type": "java.lang.String",
+      "sourceType": "com.example.service.impl.OssUploadServiceImpl"
+    }
+  ],
+  "hints": []
+}
